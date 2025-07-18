@@ -1,16 +1,33 @@
-# syncfit
+# SyncFit 💪🏽
 
-A new Flutter project.
+**SyncFit** is a personalized fitness tracker app built with Flutter, helping users stay motivated and consistent on their health journey.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🏠 Home screen with motivational welcome
+- 📹 Workout detail screen with embedded video support
+- 📸 Progress tracking with before/after images
+- 🎨 Clean, responsive UI using Material Design
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Before
+<img src="assets/images/before.jpg" width="250"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### After
+<img src="assets/images/after.jpg" width="250"/>
+
+## 📱 Tech Stack
+
+- Flutter
+- Dart
+- Android/iOS/Web Compatibility
+
+## 📁 Project Structure
+
+```bash
+lib/
+├── home_screen.dart
+├── workout_detail_screen.dart
+├── my_progress_screen.dart
+├── main.dart
